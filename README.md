@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyHust&layout=compact&hide=html" alt="TinyHust" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyHust&layout=compact&hide=html" alt="TinyHust" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TinyHust&show_icons=true" alt="TinyHust" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TinyHust&show_icons=true" alt="TinyHust" /></p> -->
 
 <!--
 **TinyHust/TinyHust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/TinyHust/count.svg" alt ="Loading">
+<!-- <img align="left" src = "https://profile-counter.glitch.me/TinyHust/count.svg" alt ="Loading"> -->
