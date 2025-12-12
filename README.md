@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Visitors Count
+<!-- ### Visitors Count -->
 <!-- <img align="left" src = "https://profile-counter.glitch.me/TinyHust/count.svg" alt ="Loading"> -->
